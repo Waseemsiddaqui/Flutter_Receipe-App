@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Sambar",
+    "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/sambar.jpg",
+    "isVegetarian": true,
+    "isVegan": false,
+    "cuisine": "South Indian",
+    "ingredients":["Dal","Tomatoes","Sambar powder","Vegetables","Oil"] ,
+    "instructions":"1.Cook Dal. 2.Cook vegetables for sambar. 3.Temper. 4.Serve Hot"
+  },
+  {
+    "name": "Chicken Noodles",
+    "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2017/11/chicken-noodles-500x447.jpg",
+    "isVegetarian": false,
+    "isVegan": false,
+    "cuisine": "Indo-Chinese Cuisine",
+    "ingredients": ["200g Chicken","1 tablespoon oil","Water for boiling","Onions","Salt"] ,
+    "instructions":"1.Boil the noodles. 2.Cook the chicken. 3.Stir fry the vegetables. 4.Combine Ingredients. 5.Garnish and serve"
+
+  },
+  {
+    "name": "Mutton Biryani",
+    "imageUrl": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/03/Best-Mutton-Biryani-Recipe.jpg",
+    "isVegetarian": false,
+    "isVegan": false,
+    "cuisine": "Hyderabadi biryani",
+    "ingredients": ["500g mutton","Basmati Rice","1/2 cup plain yogurt","1 tablespoon ginger garlic paste","1 table spoon turmeric","2 tablespoon lemon juice","Salt","Garam masala"] ,
+    "instructions":"1.Marinate the Mutton. 2.Cook the rice.3.Cook the Mutton. 4.layer the Biryani. 5.Dum Cooking(Steaming). 6.Serve"
+  },
+  {
+    "name": "Prawns Fry",
+    "imageUrl": "https://i.ytimg.com/vi/peaJ71kgJJ0/sddefault.jpg",
+    "isVegetarian": false,
+    "isVegan": false,
+    "cuisine": "Indian",
+    "ingredients": ["250g Prawns(cleaned and deveined)","Spices","Chillies","Onions","Few Curry Leaves"] ,
+    "instructions":"1.Marinate the Prawns.2.Cook the Prawns. 2.Add Spices and sauce. 3.Serve hot."
+  },
+  {
+    "name": "Kunafa",
+    "imageUrl": "https://assets.epicurious.com/photos/6238988852ef580c24629734/1:1/w_2560%2Cc_limit/Kunafa.jpg",
+    "isVegetarian": true,
+    "isVegan": true,
+    "cuisine": "Desserts",
+    "ingredients": ["250g kunafa dough","100g unsalted butter","1 cup ricotta cheese","1 cup mozzarella cheese","1/2 cup thick cream","1 cup sugar"," 1teaspoon rose water","2 tablespoon crushed pistachios"] ,
+    "instructions":"1.Prepare the sugar syrup. 2.Prepare the Kunafa Dough.3.Assemble the Kunafa. 4.Bake the Kunafa for 30-35 minutes. 5.Garnish and Serve."
+  },
+  {
+    "name": "Chicken Biryani",
+    "imageUrl": "https://vismaifood.com/storage/app/uploads/public/914/f47/fa9/thumb__1200_0_0_0_auto.jpg",
+    "isVegetarian": false,
+    "isVegan": false,
+    "cuisine": "Indian",
+    "ingredients": ["1 cup boiled basmati rice","Spices","Tomatoes","Onions","1 teaspoon saffron","Oil"] ,
+    "instructions":"1.Cook Chicken. 2.Add Spices and sauce. 3.Serve hot."
+  },
+  {
+    "name": "Chicken Kabab",
+    "imageUrl": "https://simshomekitchen.com/wp-content/uploads/2022/04/tandoori-skewers.png",
+    "isVegetarian": false,
+    "isVegan": false,
+    "cuisine": "Tandoori",
+    "ingredients": ["500g Chicken mince boneless","1 medium onion","2 tablespoons ginger garlic paste","1-2 green chilies","1 teaspoon red chili powder","1 teaspoon coriander powder","2 tablespoons chopped fresh coriander","2-3 tablespoons breadcrumbs"] ,
+    "instructions":"1.Prepare the Mixture. 2.Shape the kababs. 3.Cook the kababs. 4.Serve"
+  },
+  {
+    "name": "Veg Fried Rice",
+    "imageUrl": "https://i.ytimg.com/vi/LWJxI9p_QnQ/maxresdefault.jpg",
+    "isVegetarian": true,
+    "isVegan": true,
+    "cuisine": "Chinese",
+    "ingredients": ["Basmathi Rice","Spices","Vegitables","Sauce"] ,
+    "instructions":"1.Cook Rice. 2.Add Spices and sauce. 3.Serve hot."
+  },
+  {
+    "name": "Panner Tikka",
+    "imageUrl": "https://www.cookwithmanali.com/wp-content/uploads/2021/06/Hariyali-Paneer-Tikka-500x500.jpg",
+    "isVegetarian": true,
+    "isVegan": true,
+    "cuisine": "North Indian",
+    "ingredients": ["200g cut cubes of Paneer","1/2 cup yogurt","1 teaspoon ginger garlic paste","1 teaspoon red chilli powder","1 teaspoon garam masala powder","1 teaspoon chaat masala","2 tablespoons mustard oil"] ,
+    "instructions":"1.Prepare the Marinade 2.Marinate the Paneer and Vegetables 3.Assemble and Cook.4.Garnish and Serve "
+  }
+]
